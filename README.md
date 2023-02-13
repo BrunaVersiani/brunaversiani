@@ -1,17 +1,15 @@
 <div >
-Olá, sou a Ray!
+Olá, sou Ray!
 
-- 🥰 Hoje trabalho com Back-end
-- 🖥️ Atualmente desenvolvendo em Python
+- 🥰 Desenvolvedora Back-end
+- 🖥️ Python
 - 🚀 Estuadando Inglês 
 <div/>
 
 <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ray-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ray-Django" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="Ray-PHP" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Ray-Flutter" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />        
+  <img align="center" alt="Ray-Django" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />       
   <img align="center" alt="Ray-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ray-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ray-jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"> 
