@@ -1,5 +1,5 @@
 <div >
-Olá, sou Ray!
+Olá, sou Bruna!
 
 - 🥰 Desenvolvedora Back-end
 - 🖥️ Java
@@ -15,14 +15,7 @@ Olá, sou Ray!
           
 <br>
 <div>
- <img height="200em" src=https://raw.githubusercontent.com/raytechx/raytechx/main/profile-summary-card-output/2077/0-profile-details.svg>
- <img height="200em" src="https://raw.githubusercontent.com/raytechx/raytechx/main/profile-summary-card-output/2077/3-stats.svg">
- <img height="200em" src="https://raw.githubusercontent.com/raytechx/raytechx/main/profile-summary-card-output/2077/1-repos-per-language.svg">
-</div>
-<br>
-<div>
- 
-   
- 
-  ![Snake animation](https://github.com/raytechx/raytechx/blob/output/github-contribution-grid-snake.svg)
+ <img height="200em" src=https://raw.githubusercontent.com/brunaversiani/brunaversiani/main/profile-summary-card-output/2077/0-profile-details.svg>
+ <img height="200em" src="https://raw.githubusercontent.com/brunaversiani/brunaversiani/main/profile-summary-card-output/2077/3-stats.svg">
+ <img height="200em" src="https://raw.githubusercontent.com/brunaversiani/brunaversiani/main/profile-summary-card-output/2077/1-repos-per-language.svg">
 </div>
